@@ -1,0 +1,30 @@
+# bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# environments
+.venv/
+env/
+venv/
+ENV/
+
+# temporary and burner data
+training/
+burner_sample.txt
+test_v5_export/
+trained_model_v5_burner/
+checkpoints/
+*.tmp
+
+# System and IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Agent artifacts
+.gemini/
+brain/
+task.md
+walkthrough.md
+implementation_plan.md

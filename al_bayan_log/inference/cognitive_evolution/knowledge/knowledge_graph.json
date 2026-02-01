@@ -1,0 +1,26 @@
+{
+  "concepts": {
+    "human": {
+      "properties": [
+        "thinks",
+        "speaks"
+      ],
+      "instances": [
+        "Socrates",
+        "Plato"
+      ],
+      "relations": {}
+    }
+  },
+  "facts": [
+    {
+      "subject": "Socrates",
+      "relation": "is_a",
+      "object": "human",
+      "confidence": 1.0,
+      "source": "generated"
+    }
+  ],
+  "inferred_relations": [],
+  "rules": []
+}

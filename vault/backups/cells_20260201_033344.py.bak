@@ -1,0 +1,3 @@
+# Al-Qalam Pure: Dynamic Cells Registry
+from core.dynamic_cell import DynamicCell
+
