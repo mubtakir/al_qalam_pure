@@ -62,4 +62,4 @@ python core/dynamic_transformer/pure_code_trainer.py --data path/to/data.txt
 هذا المشروع متاح تحت رخصة مفتوحة المصدر، ويهدف لدعم الأبحاث في مجال الذكاء الاصطناعي العربي والعالمي القائم على المنطق والشفافية.
 
 ---
-**تم التطوير بواسطة: Al-Qalam Team & Antigravity (Google DeepMind)**
+**تم التطوير بواسطة: Basel Yahya Abdullah & Antigravity (Google DeepMind)**
