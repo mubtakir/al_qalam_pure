@@ -1,5 +1,102 @@
 # 📜 Al-Qalam Pure (القلم الصافي) - V5.0
 
+> **A self-writing, neuro-symbolic AI system that communicates eloquently and stores its intelligence as executable Python code.**
+
+---
+
+## 🌟 Philosophy: Source-Code-as-Weights (SCaW)
+
+Al-Qalam Pure is built on a radical premise: **Machine intelligence should be transparent, human-readable, and dynamic.**
+
+Unlike traditional AI models that store knowledge in opaque binary files (`.pt`, `.bin`, `.safetensors`), Al-Qalam persists every neural weight, every semantic relationship, and every logical rule as **pure Python source code**.
+
+```mermaid
+graph LR
+    C[Central Cortex] --> B[Bayan Engine]
+    B --> T[Dynamic Transformer]
+    T --> V[Python Vault]
+    V --> T
+    style V fill:#f9f,stroke:#333,stroke-width:2px
+```
+
+**Benefits of SCaW:**
+- **Absolute Interpretability**: Open `weights.py` to see what your model "knows".
+- **Infinite Modularity**: The model grows by appending code, not by increasing fixed layer dimensions.
+- **Zero-Dependency Inference**: Highly portable; knowledge is just data structures in a script.
+
+---
+
+## 🆕 What's New in V5.0 (Living Knowledge Transformer)
+
+1.  **Adaptive Embedding**: Dynamically expands the model's vocabulary during training without losing prior knowledge.
+2.  **Semantic Knowledge Map**: Automatically extracts discovered semantic relationships into a human-readable `knowledge_map.py`.
+3.  **Symbolic Audit**: Integrated **Al-Bayan Logic Engine** acts as a "Symbolic Auditor" in the training loop, ensuring neural updates align with physical and logical constants.
+4.  **Neuro-Symbolic Feedback**: A recursive loop where the AI writes its own logic rules, validates them via the Immune System, and persists them into the `vault/`.
+
+---
+
+## 🧠 Core Architecture
+
+| Component | Responsibility |
+| :--- | :--- |
+| **Cortex** | The "Central Brain" managing high-level goals, background reasoning, and "dreaming" (optimization). |
+| **Pure Transformer** | The neural engine that stores weights using Base64-compressed blocks within Python files. |
+| **Bayan Engine** | A symbolic reasoning engine providing formal induction, deduction, and syllogistic verification. |
+| **Immune System** | Safety layer that performs AST-based security audits on all self-generated code before execution. |
+| **Self-Writing Model** | The orchestrator that manages "Crystallization"—the process of turning patterns into persistent code. |
+
+---
+
+## 🚀 Quick Start
+
+### 1. Requirements
+- Python 3.8+
+- PyTorch (for training)
+- (Optional) `llama-cpp-python` for Donor Brain integration
+
+### 2. Interactive Session (Brain Shell)
+Launch the central cortex to witness the AI's "thoughts" and "dreams" while interacting with it:
+```bash
+python brain_shell.py
+```
+
+### 3. Training the SCaW Transformer
+Train the model on your corpus and export the weights directly as Python code:
+```bash
+python core/dynamic_transformer/pure_code_trainer.py --data training/linguistic/linguistic_corpus.txt
+```
+*Note: This will generate a `trained_model/` directory containing `weights.py` and `loader.py`—no binary files allowed!*
+
+### 4. Verification
+Run the V5.0 verification suite to ensure all neuro-symbolic components are synchronized:
+```bash
+python test_v5_verification.py
+```
+
+---
+
+## 📂 Project Structure
+
+- `core/`: Main engines (Transformer, Logic, Chat, Self-Writing).
+- `al_bayan_log/`: Logic archives and symbolic safety protocols.
+- `vault/`: The "Living Memory"—contains auto-generated cells, rules, and vocabulary.
+- `trained_model_pure/`: Examples of models persisted entirely as code.
+- `evolution/`: Scripts for model self-optimization and trait inheritance.
+
+---
+
+## 📜 License & Acknowledgments
+
+This project is open-source and intended for researchers exploring the frontier of **interpretable AI** and **neuro-symbolic integration**.
+
+**Developed by**: Basil Yahya Abdullah & Antigravity (Advanced Agentic Coding at Google DeepMind).
+
+---
+**Al-Qalam: The Pen that writes itself.** ✒️
+
+
+# 📜 Al-Qalam Pure (القلم الصافي) - V5.0
+
 > **نظام ذكاء اصطناعي عصبي-رمزي يكتب ذاته، يتحدث بلسان فصيح، ويخزن معرفته ككود بايثون.**
 
 ---
